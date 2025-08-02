@@ -1,0 +1,38 @@
+@media (max-width: 1024px) {
+  .innap {
+    border-radius: 40px !important;
+  
+  }
+.heroimg img{
+    width: 100% !important;
+    height: 200px !important ;
+}
+ .sec1 h3 {
+    font-size: 45px !important;
+    font-weight: 600 ;
+    color: #f9653c;
+  }
+.sec1 h4{
+    font-size: 30px ;
+    font-weight: 600 ;
+}
+.sec1 p{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+  .sec1 .pot {
+    width: 200px !important;
+    height: 50px !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    background: linear-gradient(to right, #f9653c 60%, #fba187 100%) !important;
+   
+  }
+.hero3 P{
+    font-size: 45px !important;
+    font-weight: 600;
+      line-height: 70px;
+}
+}
+
